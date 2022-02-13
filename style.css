@@ -248,7 +248,7 @@
   transition: opacity 0.1s ease;
 }
 
-.cover__place {
+.cover {
   margin-bottom: 92px;
 }
 
@@ -383,13 +383,13 @@
 }
 
 @media screen and (max-width: 768px) {
-  .cover__place {
+  .cover {
     margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 560px) {
-  .cover__place {
+  .cover {
     margin-bottom: 64px;
   }
 }
