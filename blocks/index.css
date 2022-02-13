@@ -1,0 +1,11 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(./page/page.css);
+@import url(./header/header.css);
+@import url(./header/__logo/header__logo.css);
+@import url(./header/__lang-link/header__lang-link.css);
+@import url(./lead/lead.css);
+@import url(./lead/__title/lead__title.css);
+@import url(./lead/__subtitle/lead__subtitle.css);
+@import url(./lead/__image/lead__image.css);
+@import url(./lead/__caption/lead__caption.css);
