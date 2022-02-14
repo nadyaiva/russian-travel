@@ -15,4 +15,4 @@ _This is the second practical work during Web Development course._
 
 - adding all vendor prefixes for cross-browser compatibility.
 
-The result is on GitHub pages - [https://nadyaiva.github.io/russian-travel/](here).
+The result is on GitHub pages - [here](https://nadyaiva.github.io/russian-travel/).
