@@ -12,3 +12,5 @@ This is the second practical work during Yandex Practicum education course. In t
 ### Plans for improvement:
 
 - adding all vendor prefixes for cross-browser compatibility.
+
+The result is on GitHub pages - [https://nadyaiva.github.io/russian-travel/] (here).
