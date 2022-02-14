@@ -1,23 +1,14 @@
-# Проект: Путешествие по России
+# Yandex Practicum project: Travel Russia
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+This сross-browser and adaptive landing page about Russian travel destinations.
+The project was coded with only CSS using the BEM methodology (class structure and naming).
 
-**Интро**
+This is the second practical work during Yandex Practicum education course. In this project I:
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+- used design layout in Figma;
+- connected custom fonts;
+- Implemented media queries to make layout adaptive
 
-**Figma**
+### Plans for improvement:
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+- adding all vendor prefixes for cross-browser compatibility.
