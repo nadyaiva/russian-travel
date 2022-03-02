@@ -5,5 +5,6 @@
 @media screen and (max-width: 722px) {
   .place__website {
     align-self: center;
+    padding-left: 16px;
   }
 }

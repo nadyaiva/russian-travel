@@ -4,6 +4,7 @@
 @media screen and (max-width: 965px) {
   .photo {
     padding-bottom: 88px;
+    max-width: calc(100% - 32px);
   }
 }
 
